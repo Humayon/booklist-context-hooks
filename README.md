@@ -1,4 +1,4 @@
-##React-Redux Basic Course
+##React Booklist Contex Hooks App
 
 ## Available Scripts
 
